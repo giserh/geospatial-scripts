@@ -1,4 +1,4 @@
-# shapely-fiona-gdal-etc-scripts
+# geospatial-scripts
 This repository contains some useful Python snippets of most popular geospatial libraries (shapely, fiona, gdal, rasterio...)
 
 ### Language
